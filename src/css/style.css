@@ -145,8 +145,8 @@ nav {
   top: 0;
 }
 .about_me {
-  min-width: 910px;
-  padding: 206px 0 217px;
+  min-height: 910px;
+  padding: 310px 0 217px;
 }
 .about_me .about_me_descr {
   margin-left: 46px;
